@@ -1,0 +1,13 @@
+- var booot = `$tw.boot.boot = function(callback) {
+	// Initialise crypto object
+	$tw.crypto = new $tw.utils.Crypto();
+	// Initialise password prompter
+	if($tw.browser && !$tw.node) {
+		$tw.passwordPrompt = new $tw.utils.PasswordPrompt();
+	}
+	// Preload any encrypted tiddlers
+	$tw.boot.decryptEncryptedTiddlers(function() {
+		// Startup
+		$tw.boot.startup({callback: callback});
+	});
+};`
