@@ -12,6 +12,9 @@ source-code plugin: tiddlywiki-store
 *img 3*
 ![image](https://user-images.githubusercontent.com/123137817/215289150-ac3fe05e-b75e-48e2-a597-d3066ce97b99.png)
 
+## storage
+google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexeddb, sqlite, mysql, postgres, mongodb, standard notes, simplenote, file local system, dropbox etc
+
 ## About NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
