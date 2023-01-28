@@ -35,12 +35,12 @@ google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexedd
 
 ## FAQ
 - Local File Storage (Recommended): this option allows you to save notes directly to a folder of your choice. We recommend it as it provides complete data ownership to our users.
-- Gitlab/Bitbucket/Google Drive/Google Cloud/GitHub Storage etc: allows you to sync your notes with a GitHub repository of your choice. It will keep your notes synced across multiple devices.
+- Third-party storage: allows you to sync your notes with a (Gitlab/Bitbucket/Google Drive/Google Cloud/GitHub storage) etc repository of your choice. It will keep your notes synced across multiple devices.
 - Browser Storage: stores notes in your browser's storage. A good option if you want to try out Bangle. However, you can lose your notes if you clear your browser storage or closed window browser. Options for browser-storage: cookies, index-db, Local storage, Session Storage, Web SQL or HistoryPush.
-- Self=storage: Options for self-storage(remote-storage, solid-project, hypercore, api-tiddlwiki-store, server-tiddlywiki-store)
-- Public storage: Options for public-storage(ipfs, bittorrent)
-- Database storage: Options for public-storage(postgres, mysql, mongodb)
-- Networking storage: Options for networking-storage(ftp, webdav)
+- Self-storage: Options for self-storage(remote-storage, solid-project, hypercore, api-tiddlwiki-store, server-tiddlywiki-store, tiddlywiki-host, tiddlwikiweb etc)
+- Public-storage: Options for public-storage(ipfs, orbit-db)
+- Database-storage: Options for database-storage(postgres, mysql, mongodb)
+- Networking-storage: Options for networking-storage(ftp, webdav, bittorrent)
 
 Options for self-storage(remote-storage, )
 ## About NextExperience
