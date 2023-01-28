@@ -23,6 +23,14 @@ google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexedd
 - set sync date time: for example you can set the time... every 5 days, 7 months etc for your tiddlers to sync
 - choose synchronization type: for example, you can choose that synchronization is manual, automatic for one or more tiddlers
 - choose storage type: for example you can choose to store locally by cookies, indexed-db or remotely or over network etc
+- Fully offline
+- multi-devices
+- multi-searchs
+- multi-sync
+- multi-protocols/storages/services
+- Open source
+- No data hostage
+- unhosted/self-hosted
 
 ## About NextExperience
 
