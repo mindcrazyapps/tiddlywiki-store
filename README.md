@@ -26,6 +26,7 @@ google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexedd
 - Fully offline
 - multi-devices
 - multi-searchs
+- switch data/workspace
 - multi-sync
 - multi-protocols/storages/services
 - Open source
