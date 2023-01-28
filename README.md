@@ -26,15 +26,14 @@ google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexedd
 - others features: Fully offline, multi-devices, multi-searchs, switch data/workspace, multi-sync, multi-protocols/storages/services, open source, no data hostage, unhosted/self-hosted
 
 ## FAQ
-- Local File Storage (Recommended): this option allows you to save notes directly to a folder of your choice. We recommend it as it provides complete data ownership to our users.
-- Third-party-storage: allows you to sync your notes with a (Gitlab/Bitbucket/Google Drive/Google Cloud/GitHub storage) etc repository of your choice. It will keep your notes synced across multiple devices.
-- Browser-storage: stores notes in your browser's storage. A good option if you want to try out tiddlywiki. However, you can lose your notes if you clear your browser storage or closed window browser. Options for browser-storage: cookies, index-db, Local storage, Session Storage, Web SQL or HistoryPush.
-- Self-storage: Options for self-storage(remote-storage, solid-project, hypercore, api-tiddlwiki-store, server-tiddlywiki-store, tiddlywiki-host, tiddlwikiweb etc)
-- Public-storage: Options for public-storage(ipfs, orbit-db)
-- Database-storage: Options for database-storage(postgres, mysql, mongodb)
-- Networking-storage: Options for networking-storage(ftp, webdav, bittorrent)
+- local-file-storage (Recommended): this option allows you to save notes directly to a folder of your choice. We recommend it as it provides complete data ownership to our users.
+- third-party-storage: allows you to sync your notes with a (Gitlab/Bitbucket/Google Drive/Google Cloud/GitHub storage) etc repository of your choice. It will keep your notes synced across multiple devices.
+- browser-storage: stores notes in your browser's storage. A good option if you want to try out tiddlywiki. However, you can lose your notes if you clear your browser storage or closed window browser. Options for browser-storage: cookies, index-db, Local storage, Session Storage, Web SQL or HistoryPush.
+- self-storage: Options for self-storage(remote-storage, solid-project, hypercore, api-tiddlwiki-store, server-tiddlywiki-store, tiddlywiki-host, tiddlwikiweb etc)
+- public-storage: Options for public-storage(ipfs, orbit-db)
+- database-storage: Options for database-storage(postgres, mysql, mongodb, sqlite, couchdb)
+- networking-storage: Options for networking-storage(ftp, webdav, bittorrent)
 
-Options for self-storage(remote-storage, )
 ## About NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
