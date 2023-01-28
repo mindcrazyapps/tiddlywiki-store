@@ -13,7 +13,7 @@ source-code plugin: tiddlywiki-store
 ![image](https://user-images.githubusercontent.com/123137817/215289150-ac3fe05e-b75e-48e2-a597-d3066ce97b99.png)
 
 ## concept
-![image](https://user-images.githubusercontent.com/123137817/215293520-343e399a-0ac5-4838-b89a-4468316679d7.png)
+![image](https://user-images.githubusercontent.com/123137817/215293568-3cd43f5e-6e23-461d-8e6e-1525f7517d01.png)
 
 ## storage
 google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexeddb, sqlite, mysql, tiddlyweb, tiddlywiki-extension, tiddlywiki-host, postgres, mongodb, standard notes, simplenote, file local system, dropbox etc
