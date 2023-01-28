@@ -1,0 +1,12 @@
+{
+	"title": "$:/plugins/tiddlywikiStore",
+	"name": "tiddlywikiStore",
+	"description": "Sync tiddlers with multi protocols, syncs etc",
+	"author": "NextExperience",
+	"version": "0.0.3",
+	"core-version": ">=5.0.8",
+	//"dependencies": "tiddlywebadaptor browser-storage",
+	"source": "https://github.com/nextexperience/tiddlywikiStore.git",
+	"plugin-type": "plugin",
+	"list": "readme settings license"
+}
