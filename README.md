@@ -1,7 +1,7 @@
-# tiddlywiki-store
+## tiddlywiki-store
 source-code plugin: tiddlywiki-store
 
-## screenshot
+## Screenshot
 
 *img 1*
 ![image](https://user-images.githubusercontent.com/123137817/215286490-fc12aeeb-a3a0-4844-b893-dd3a3d261717.png)
@@ -12,13 +12,13 @@ source-code plugin: tiddlywiki-store
 *img 3*
 ![image](https://user-images.githubusercontent.com/123137817/215289150-ac3fe05e-b75e-48e2-a597-d3066ce97b99.png)
 
-## concept
+## Concept
 ![image](https://user-images.githubusercontent.com/123137817/215293568-3cd43f5e-6e23-461d-8e6e-1525f7517d01.png)
 
-## storage
+## Storage
 google drive, ftp, webdav, remote-storage, ipfs, cookies, history-push, indexeddb, sqlite, mysql, tiddlyweb, tiddlywiki-extension, tiddlywiki-host, postgres, mongodb, standard notes, simplenote, file local system, dropbox etc
 
-## features
+## Features
 - schedule the sync type: you can schedule the synchronization by time or by choosing the synchronization for example, manually or automatically
 - set sync date time: for example you can set the time... every 5 days, 7 months etc for your tiddlers to sync
 - choose synchronization type: for example, you can choose that synchronization is manual, automatic for one or more tiddlers
