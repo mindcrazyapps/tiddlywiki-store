@@ -11,3 +11,11 @@
 *.tid linguist-generated=false
 *.tid linguist-documentation=false
 *.tid linguist-detectable=true
+*.cp linguist-vendored=false
+*.cp linguist-generated=false
+*.cp linguist-documentation=false
+*.cp linguist-detectable=true
+*.h linguist-vendored=false
+*.h linguist-generated=false
+*.h linguist-documentation=false
+*.h linguist-detectable=true
